@@ -1,0 +1,23 @@
+# Java build output
+bin/
+out/
+target/
+*.class
+*.jar
+
+# IDE files
+.classpath
+.project
+.settings/
+.idea/
+*.iml
+
+# OS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
